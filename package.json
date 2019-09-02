@@ -1,0 +1,22 @@
+{
+  "name": "sudokusolver",
+  "version": "1.0.0",
+  "description": "http://pl.sudokuonline.eu/ solver with \"human\" algorithms",
+  "main": "sudoku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rootar/SudokuSolver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rootar/SudokuSolver/issues"
+  },
+  "homepage": "https://github.com/Rootar/SudokuSolver#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
